@@ -106,10 +106,10 @@ export default function Home() {
                     etmquasa molestias epturi sint occaecati cupiditate non
                     providente mikume molareshe.
                   </p>
-                  <a href="how-it-work.html" className="tu-primbtn-lg">
+                  <Link href="how-it-works" className="tu-primbtn-lg">
                     <span>Explore more about us</span>
                     <i className="icon icon-chevron-right"></i>
-                  </a>
+                  </Link>
                 </div>
               </div>
               <div className="col-md-12 col-lg-6">
@@ -231,8 +231,8 @@ export default function Home() {
               className="splide tu-featurelist  tu-splidedots "
             >
               <div className="splide__track">
-                <ul className="row ">
-                  <li className="col-3 pb-4">
+                <ul className="row">
+                  <li className="col-lg-4 col-md-6">
                     <div className="tu-featureitem">
                       <figure>
                         <a href="tutor-detail.html">
@@ -302,7 +302,7 @@ export default function Home() {
                       </div>
                     </div>
                   </li>
-                  <li className="col-3 pb-4">
+                  <li className="col-lg-4 col-md-6 pb-4">
                     <div className="tu-featureitem">
                       <figure>
                         <a href="tutor-detail.html">
@@ -372,7 +372,7 @@ export default function Home() {
                       </div>
                     </div>
                   </li>
-                  <li className="col-3 pb-4">
+                  <li className="col-lg-4 col-md-6 pb-4">
                     <div className="tu-featureitem">
                       <figure>
                         <a href="tutor-detail.html">
@@ -443,7 +443,7 @@ export default function Home() {
                       </div>
                     </div>
                   </li>
-                  <li className="col-3 pb-4">
+                  <li className="col-lg-4 col-md-6 pb-4">
                     <div className="tu-featureitem">
                       <figure>
                         <a href="tutor-detail.html">
@@ -513,7 +513,7 @@ export default function Home() {
                       </div>
                     </div>
                   </li>
-                  <li className="col-3 pb-4">
+                  <li className="col-lg-4 col-md-6 pb-4">
                     <div className="tu-featureitem">
                       <figure>
                         <a href="tutor-detail.html">
@@ -583,7 +583,7 @@ export default function Home() {
                       </div>
                     </div>
                   </li>
-                  <li className="col-3 pb-4">
+                  <li className="col-lg-4 col-md-6 pb-4">
                     <div className="tu-featureitem">
                       <figure>
                         <a href="tutor-detail.html">
@@ -899,7 +899,7 @@ export default function Home() {
             >
               <div className="splide__track">
                 <ul className="row">
-                  <li className="col-3 pb-4">
+                  <li className="col-lg-3 col-md-4 pb-4">
                     <a
                       className="tu-categories_content"
                       href="search-listing-two.html"
@@ -914,7 +914,7 @@ export default function Home() {
                       </div>
                     </a>
                   </li>
-                  <li className="col-3 pb-4">
+                  <li className="col-lg-3 col-md-4 pb-4">
                     <a
                       className="tu-categories_content"
                       href="search-listing-two.html"
@@ -929,7 +929,7 @@ export default function Home() {
                       </div>
                     </a>
                   </li>
-                  <li className="col-3 pb-4">
+                  <li className="col-lg-3 col-md-4 pb-4">
                     <a
                       className="tu-categories_content"
                       href="search-listing-two.html"
@@ -944,7 +944,7 @@ export default function Home() {
                       </div>
                     </a>
                   </li>
-                  <li className="col-3 pb-4">
+                  <li className="col-lg-3 col-md-4 pb-4">
                     <a
                       className="tu-categories_content"
                       href="search-listing-two.html"
@@ -959,7 +959,7 @@ export default function Home() {
                       </div>
                     </a>
                   </li>
-                  <li className="col-3 pb-4">
+                  <li className="col-lg-3 col-md-4 pb-4">
                     <a
                       className="tu-categories_content"
                       href="search-listing-two.html"
@@ -974,7 +974,7 @@ export default function Home() {
                       </div>
                     </a>
                   </li>
-                  <li className="col-3 pb-4">
+                  <li className="col-lg-3 col-md-4 pb-4">
                     <a
                       className="tu-categories_content"
                       href="search-listing-two.html"
@@ -989,7 +989,7 @@ export default function Home() {
                       </div>
                     </a>
                   </li>
-                  <li className="col-3 pb-4">
+                  <li className="col-lg-3 col-md-4 pb-4">
                     <a
                       className="tu-categories_content"
                       href="search-listing-two.html"
@@ -1004,7 +1004,7 @@ export default function Home() {
                       </div>
                     </a>
                   </li>
-                  <li className="col-3 pb-4">
+                  <li className="col-lg-3 col-md-4 pb-4">
                     <a
                       className="tu-categories_content"
                       href="search-listing-two.html"
@@ -1019,7 +1019,7 @@ export default function Home() {
                       </div>
                     </a>
                   </li>
-                  <li className="col-3 pb-4">
+                  <li className="col-lg-3 col-md-4 pb-4">
                     <a
                       className="tu-categories_content"
                       href="search-listing-two.html"
@@ -1034,7 +1034,7 @@ export default function Home() {
                       </div>
                     </a>
                   </li>
-                  <li className="col-3 pb-4">
+                  <li className="col-lg-3 col-md-4 pb-4">
                     <a
                       className="tu-categories_content"
                       href="search-listing-two.html"
